@@ -1,1 +1,1 @@
-# hello-js
+# intro.js
